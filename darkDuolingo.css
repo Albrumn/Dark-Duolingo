@@ -1,0 +1,2080 @@
+:root {
+    --blue-400: #1a4975;
+    --blue-600: #3f80bd;
+    --blue-800: #7dc0ff;
+    --blue-duo-audio: #1cb0f6;
+    --grey-100: #202225;
+    --grey-200: #292b2f;
+    --grey-300: #2f3136;
+    --grey-400: #36393f;
+    --grey-500: #40444b;
+    --grey-600: #72767d; /* preview text */
+    --grey-700: #a3a1a7; /* time stamp */
+    --grey-800: #d0d1d3; /* text */
+    --grey-900: #eeeeee; /* text */
+    --red-lingot: #fc4848;
+    --red-200: #692023;
+    --red-400: #863536;
+    --red-500: #b8494a;
+    --red-600: #e26c6e;
+    --red-800: #fcacad;
+    --green-200: #1a380d;
+    --green-400: #325821;
+    --green-500: #4c8534;
+    --green-600: #72b953;
+    --green-800: #90ff86;
+    --gold-400: #cd7900;
+    --gold-600: #ffc800;
+    --gold-800: #ffd800;
+}
+
+._13HXc {
+    color: #ffffffcc !important;
+}
+
+body {
+    background: var(--grey-200) !important;
+}
+
+hr {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+/* Login */
+._338aW {
+    background: var(--grey-200) !important;
+}
+
+/* Login banner */
+.VIArj, ._1UDxB, .topbar, .zw2A1 {
+    background: var(--grey-100) !important;
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Login banner logo */
+._1Iy-H {
+    filter: brightness(0.625) !important;
+}
+
+/* Login header text */
+._338aW h2, ._338aW h3 {
+    color: var(--grey-800) !important;
+}
+
+/* Login paragraph text */
+._2gzeH, ._1c0wn, ._1c0wn > span {
+    color: var(--grey-700) !important;
+}
+
+/* Login paragraph link text */
+._2gzeH a {
+    color: var(--grey-800) !important;
+}
+
+/* Login bold text */
+._2z95t ._3yAjN {
+    color: var(--grey-600) !important;
+}
+
+._2z95t ._2mhcq ._3yAjN:hover {
+    color: var(--grey-700) !important;
+}
+
+/* Login hr */
+.DHwFZ {
+    border-bottom: 1px solid var(--grey-500) !important;
+}
+
+/* Login app buttons */
+._2mU94, .subtext, ._1sq2h > span {
+    color: var(--grey-800) !important;
+}
+
+/* Login site language dropdown */
+._1L4sH span, ._2Iddf {
+    color: var(--grey-800) !important;
+}
+
+._1L4sH:hover span, ._3_pNV:hover {
+    color: var(--grey-200) !important;
+}
+
+/* Login login button */
+#sign-in-btn::before, ._4UVDV ._2NolF::before, .-uBuq ._2NolF::before, ._3e4_t ._2NolF::before, ._2mjLz ._2NolF::before, .JsD0T ._2NolF::before, ._3PnTi ._2NolF::before {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+/* Login logging-in header text */
+._2GC65, ._2jK3x {
+    color: var(--grey-800) !important;
+}
+
+/* Login logging-in paragraph text */
+._2-N6b, ._3xBIr {
+    color: var(--grey-700) !important;
+}
+
+/* Login logging-in input */
+._2a3s4, .A7wZy {
+    background: var(--grey-300) !important;
+    border: 1px solid var(--grey-600) !important;
+    color: var(--grey-800) !important;
+}
+
+/* Login logging-in input password */
+._3MNft {
+    color: var(--grey-800) !important;
+}
+
+/* Login forgot password */
+._2PVaI {
+    background: none !important;
+}
+
+/* Login logging-in ? icon */
+._2Aobv {
+    border: 1px solid var(--grey-800) !important;
+    border-radius: 50% !important;
+    height: 23px !important;
+    width: 23px !important;
+}
+
+/* Login logging-in hr */
+._2_JcM {
+    background: var(--grey-600) !important;
+    height: 1px !important;
+}
+
+/* Login logging-in F/G logos */
+._3zB0T {
+    filter: grayscale(1) brightness(1.5) !important;
+}
+
+/* Login logging-in error text */
+._14ezr, ._1422X, ._39S2S, ._2L4N_ {
+    color: var(--red-lingot) !important;
+}
+
+/* Efficacy */
+
+/* Efficacy banner */
+._1Bio6 {
+    background: var(--grey-100) !important;
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Efficacy banner logo */
+._2eX-Q > svg > path {
+    fill: var(--grey-700) !important;
+}
+
+/* Efficacy header text */
+._1S5OH, .tPtzQ {
+    color: var(--grey-800) !important;
+}
+
+/* Efficacy paragraph text */
+._35L-A p {
+    color: var(--grey-700) !important;
+}
+
+/* Efficacy duolingo-method image */
+._23pn5{
+    filter: grayscale(1) brightness(0.8) !important;
+}
+
+/* Efficacy duolingo-method image */
+._1AIFb {
+    filter: grayscale(0.1) brightness(0.9) !important;
+}
+
+/* Efficacy hr */
+._2igau li {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Super */
+
+/* Super body */
+.uHdKs, ._1ibNV, ._3YMHd, ._3fWgm, ._2iPBh, ._1Uk5u {
+    background: var(--grey-200) !important;
+}
+
+/* Super banner */
+._24LxJ {
+    background: var(--grey-100) !important;
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Super banner logo */
+._2nlSY {
+    filter: brightness(0.625) !important;
+}
+
+/* Super hero image */
+._1vdeC {
+    box-shadow: inset 128px -128px 128px var(--grey-200) !important;
+}
+
+/* Super header text */
+._1Y-pT {
+    color: var(--grey-800) !important;
+}
+
+/* Super comparison box */
+._2LTjq {
+    background: var(--grey-400) !important;
+}
+
+._16hyD {
+    color: var(--grey-800) !important;
+}
+
+/* Super box */
+._3WmPv {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+/* Super box header text */
+._1QhgU {
+    color: var(--grey-800) !important;
+}
+
+/* Super app buttons */
+._2Gbos {
+    color: var(--grey-800) !important;
+}
+
+._3pDv3 ._2NolF::before {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+/* ./learn */
+
+/* Avatar */
+._33LFc, .hjw0S, ._2EwR0 {
+    border: 1px solid white !important;
+    color: #ffffffaa !important;
+}
+
+/* Navbar */
+
+/* Navbar container */
+._3g2C1, ._20BI9 {
+    background-color: var(--grey-100) !important;
+    border-bottom: 1px solid var(--grey-600) !important;
+    --shine-background-color: var(--grey-100) !important;
+}
+
+.InZNv {
+    filter: grayscale(1) brightness(2) !important;
+}
+
+/* Navbar logo */
+._22cC8, .H3MxL, ._2p67F {
+    filter: grayscale(1) !important;
+}
+
+/* Navbar avatar */
+._3J9t8 {
+    border: 2px solid white !important;
+}
+
+/* Navbar lingot notification */
+._19zEx {
+    border: 0 solid white !important;
+}
+
+/* Navbar dropdown */
+._2O14B._1v2Gj, ._32PCq.dkZje, ._2O14B._2XlFZ, ._2O14B._2zguy, ._2O14B._1UVl-, ._2lvkY {
+    filter: drop-shadow(0px 0px 16px rgb(0, 0, 0)) !important;
+}
+
+._1KUxv:not(.zylDf), ._1UtJe, ._2lvkY {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-800) !important;
+    color: var(--grey-800) !important;
+}
+
+._1KUxv {
+    background: var(--path-unit-background-color) !important;
+    color: #ffffffcc !important;
+    border: 1px solid var(--grey-800) !important;
+}
+
+.uqCpu .uOkpe, .JsD0T {
+    border-top: 1px solid var(--grey-700) !important;
+}
+
+.uqCpu .uOkpe:hover {
+    background: var(--grey-800) !important;
+}
+
+.uqCpu .uOkpe:hover > ._2UuYQ{
+    background: 1px solid var(--grey-500) !important;
+    color: var(--grey-500) !important;
+}
+
+.uqCpu .uOkpe:hover > .afJvq{
+    filter: brightness(0.4) !important;
+}
+
+/* Navbar dropdown pointer */
+.ite_X, ._7UVIL, .EhdCW {
+    z-index: -1 !important;
+}
+
+._3p5e9, ._2zOgU._15r6c, .QNCcj, .EhdCW::after {
+    background: var(--grey-800) !important;
+    border: none !important;
+}
+
+._1e1GW::before {
+    border-right: 12px solid var(--grey-800) !important;
+    left: -12px !important;
+    top: -1px !important;
+}
+
+._1e1GW::after {
+    border-right: 12px solid var(--grey-500) !important;
+}
+
+/* Navbar dropdown header text */
+._3PrAS, ._1ccgT, .PqXfk, ._1C24l > h2, ._2Iddf, ._2-5Us {
+    color: var(--grey-800) !important;
+}
+
+/* Navbar dropdown paragraph text */
+._3uAwj, ._2WP_P, ._1C24l > p, ._1KUxv ._13HXc {
+    color: var(--grey-700) !important;
+}
+
+._1XkpR {
+    color: var(--red-lingot) !important;
+}
+
+/* Navbar dropdown calendar header text */
+._2I8yp {
+    color: var(--grey-700) !important;
+}
+
+/* Navbar dropdown calendar */
+.UpoCK {
+    border: 1px solid var(--grey-800) !important;
+}
+
+/* Navbar dropdown option box */
+._3sYli {
+    border-bottom: 1px solid var(--grey-800) !important;
+}
+
+._1KF6e, ._3sYli:first-of-type {
+    border-top: 1px solid var(--grey-800) !important;
+}
+
+/* Navbar more button dropdown */
+._2JA2z {
+    background: var(--grey-400) !important;
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Navbar dropdown option text */
+.uqCpu ._2WiQc {
+    border-bottom: 1px solid var(--grey-800) !important;
+    color: var(--grey-700) !important;
+}
+
+.uqCpu ._2WiQc:hover {
+    background-color: var(--grey-800) !important;
+    color: var(--grey-500) !important;
+}
+
+/* Navbar dropdown option selected */
+._1Gh9e {
+    background-color: var(--grey-700) !important;
+    color: var(--grey-400) !important;
+}
+
+._2WiQc._1Gh9e {
+    color: var(--grey-400) !important;
+}
+
+/* Navbar dropdown notification dot */
+.ZG4SS {
+    background-color: var(--red-lingot) !important;
+}
+
+/* Add new language */
+
+/* Add new language header text*/
+.oN_-E, ._14oJt, ._1OeGd, ._3ly0h, .DYCFd, ._2cltK {
+    color: var(--grey-800) !important;
+}
+
+/* Add new language paragraph text*/
+._3qIya, ._1xIvJ, ._2aUvg, ._1Dcvf, ._1lHHm > div {
+    color: var(--grey-700) !important;
+}
+
+._3qIya ._3yAjN {
+    color: var(--grey-600) !important;
+}
+
+._3qIya ._3yAjN:hover {
+    color: var(--grey-700) !important;
+}
+
+/* Add new language hr */
+._374bD {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+/* Add new language card */
+.zAIdz, .HnjwC, ._3-ope, ._1lHHm {
+    background-color: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+/* Add new language card checkmark */
+.rOB_o > ._2jNpf {
+    filter: brightness(1) !important;
+    opacity: 0.75;
+}
+
+/* Main content */
+
+/* League pop-up */
+._3lUbm {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+}
+
+/* League pop-up header text */
+._1Sg9D h2 {
+    color: var(--grey-800) !important;
+}
+
+/* League pop-up paragraph text */
+._2rcD0, ._1LpFA {
+    color: var(--grey-700) !important;
+}
+
+/* League pop-up close button */
+.FrL-W {
+    background: var(--grey-500) !important;
+    border: 2px solid var(--grey-700) !important;
+}
+
+/* League pop-up next button */
+._2XLQe ._2NolF::before, ._2G7zH::before {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+/* Sidebar */
+._3SuOC {
+    border: 1px solid var(--grey-500) !important;
+    border-radius: 12px !important;
+    margin: 0 12px !important;
+}
+
+._1JSRd {
+    background-color: var(--grey-100) !important;
+}
+
+._2BPAp {
+    background-color: var(--grey-300) !important;
+    border: 1px solid var(--grey-600) !important;
+    margin: -1px !important;
+}
+
+._2-Cde ._1lJDk {
+    color: var(--grey-700) !important;
+}
+
+._3zmPR:hover::before {
+    background: red !important;
+}
+
+/* Sidebar errors icon */
+._3KmBl, ._364Xu {
+    border: 1px solid white !important;
+}
+
+/* Sidebar as footer */
+._3rtds, ._3bfrJ {
+    background: var(--grey-100) !important;
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+._1-PcN {
+    background: var(--grey-100) !important;
+}
+
+/* Stats column */
+
+/* Stats column box */
+._3ZuGY {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+/* Stats column box header text */
+._3HNwo, ._16nyP {
+    color: var(--grey-700) !important;
+}
+
+/* Stats column box info icon */
+.m1KlE > ._2eeKH {
+    border-radius: 50% !important;
+    overflow: hidden !important;
+}
+
+/* Stats column box hr */
+._2maxd {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+/* Stats column box text */
+._1_ZCT, ._3cvJx, ._3YFg9 {
+    color: var(--grey-700) !important;
+}
+
+/* Stats column league self grey */
+._3QwaZ.mKH7H {
+    background: var(--grey-800) !important;
+}
+
+._3QwaZ.yXp5g span, ._3QwaZ.yXp5g ._3cvJx {
+    color: var(--grey-600) !important;
+}
+
+/* Stats column league self green */
+._3QwaZ.mKH7H {
+    background: var(--green-800) !important;
+}
+
+._3QwaZ.mKH7H span, ._3QwaZ.mKH7H ._3cvJx {
+    color: var(--green-500) !important;
+}
+
+/* Stats column league self red */
+._3QwaZ._1xmOg {
+    background: var(--red-800) !important;
+}
+
+._3QwaZ._1xmOg span, ._3QwaZ._1xmOg ._3cvJx {
+    color: var(--red-500) !important;
+}
+
+/* Stats column league rank green */
+.mKH7H ._1_ZCT, ._2UTWH {
+    color: var(--green-600) !important;
+}
+
+._2UTWH ._127Sz {
+    filter: grayscale(0.475) hue-rotate(10deg) !important;
+}
+
+/* Stats column league rank red */
+._1xmOg ._1_ZCT, .jHo0Y {
+    color: var(--red-lingot) !important;
+}
+
+._127Sz {
+    filter: brightness(1.75) !important;
+}
+
+/* Stats column box scroll area */
+._2Rsru {
+    background: var(--grey-500) !important;
+}
+
+.yXp5g:not(._3QwaZ):hover {
+    background: var(--grey-600) !important;
+}
+
+.yXp5g:not(._3QwaZ):hover span {
+    color: var(--grey-800) !important;
+}
+
+/* Stats column ad */
+._1PYFj, ._3bfsh, .PZMcl, .SQR8J {
+    display: none !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+/* Path column */
+
+/* Patch column practice button */
+._3b2On {
+    filter: grayscale(1) brightness(1.1) !important;
+}
+
+/* Path column to-current-position button */
+.fs2FI {
+    filter: grayscale(1) brightness(1.1) !important;
+}
+
+/* Path column guide button */
+._5CGAu > ._3C_oC::before, ._5CGAu > .WOZnx::before {
+    background: var(--path-unit-background-color) !important;
+    border: 1px solid #40024d55 !important;
+    box-shadow: 0 1px 0 #40024d55 !important;
+}
+
+/* Footer links */
+._1KXNm ._3yAjN, ._3jjBK ._3yAjN, ._3jjBK ._3yAjN ._13HXc, ._2HzgP ._3yAjN, ._2g0N3 ._3yAjN, ._16i3y ._3yAjN {
+    color: var(--grey-600) !important;
+}
+
+._1KXNm ._3yAjN:hover, ._3jjBK ._3yAjN:hover, ._3jjBK ._3yAjN ._13HXc:hover, ._2HzgP ._3yAjN:hover, ._2g0N3 ._3yAjN:hover, ._16i3y ._3yAjN:hover {
+    color: var(--grey-700) !important;
+}
+
+/* Review tab */
+._2Bb7o {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+.mhy3Z {
+    color: var(--red-lingot) !important;
+}
+
+._2jQgx {
+    color: var(--grey-700) !important;
+}
+
+._273Yl {
+    opacity: 0.5 !important;
+}
+
+/* Load quiz */
+
+/* Load quiz body */
+._3IvEG {
+    background: var(--grey-100) !important;
+}
+
+/* Load quiz header text */
+.a1TnJ {
+    color: var(--grey-700) !important;
+}
+
+/* Load quiz paragraph text */
+.XWge1 {
+    color: var(--grey-600) !important;
+}
+
+/* Load quiz last-lesson-in-level */
+
+/* Load quiz last-lesson-in-level header text*/
+._2w563 {
+    color: var(--grey-800) !important;
+}
+
+/* Load quiz last-lesson-in-level paragraph text*/
+._2L75s {
+    color: var(--grey-700) !important;
+}
+
+/* Quiz */
+
+/* Quiz progress bar */
+.-oI84 {
+    height: 8px !important;
+    filter: grayscale(0.25) !important;
+}
+
+/* Quiz header text */
+._2LZl6 {
+    color: var(--grey-700) !important;
+}
+
+/* Quiz character */
+.F2B9m, ._3a8EI._2IFQ2, ._3a8EI:not(._1ZuR6, ._1NSc8, ._3xGhq *), .WRo55, ._27mir, ._1cRje, ._23sc9, .QuIvC, ._145Ci, .IBVgx, ._3igD0, ._3i-dI, ._26tJe, ._25ZJA {
+    filter: grayscale(0.25) contrast(125%)
+    drop-shadow( 0   0   0 white)
+    drop-shadow( 0  -1px 0 white)
+    drop-shadow( 0   1px 0 white)
+    drop-shadow(-1px 0   0 white)
+    drop-shadow( 1px 0   0 white) !important;
+}
+/* Quiz question text */
+._2Hg6H {
+    color: var(--grey-800) !important;
+}
+
+/* Quiz question new word text */
+._1bkpY {
+    filter: hue-rotate(180deg) !important;
+}
+
+/* Quiz question text pop-up text */
+._1ihC0 {
+    color: var(--grey-800) !important;
+}
+
+/* Quiz question text pop-up pointer */
+._3JVfl {
+    background: var(--grey-800) !important;
+}
+
+._1rooe {
+    border-bottom: 1px solid var(--grey-700) !important;
+}
+
+._2Gskp {
+    border-top: 1px solid var(--grey-700) !important;
+}
+
+._37i3K:first-child > ._2Gskp {
+    border-top: 0 solid var(--grey-700) !important;
+}
+
+._3xnDt {
+    border-left: 1px solid var(--grey-700) !important;
+}
+
+._3xnDt:first-child {
+    border-left: 0 solid var(--grey-700) !important;
+}
+
+/* Quiz fill-in-the-blank */
+._2FKqf {
+    background: var(--grey-300) !important;
+    border: 1px solid var(--grey-600) !important;
+    color: var(--grey-800) !important;
+}
+
+._17nEt, ._17nEt:disabled {
+    -webkit-text-fill-color: var(--grey-800) !important;
+    border-bottom-width: 1px !important;
+    color: var(--grey-800) !important;
+}
+
+/* Quiz button */
+._3C_oC::before, .WOZnx::before {
+    background-color: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+._2mDNn.WOZnx::before {
+    box-shadow: 0 0 0 var(--grey-700) !important;
+}
+
+._3C_oC:hover::before {
+    background-color: var(--grey-700) !important;
+}
+
+._3C_oC:hover *, ._3C_oC.disCS:hover * {
+    color: var(--grey-900) !important;
+}
+
+._3C_oC:hover ._2S0Zh, ._3C_oC.disCS:hover ._2S0Zh {
+    border-color: var(--grey-900) !important;
+}
+
+._3C_oC:active {
+    background-color: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+._3C_oC:active ._2S0Zh {
+    border-color: var(--grey-900) !important;
+}
+
+._3C_oC:active:not(.hfPEz) * {
+    color: var(--grey-900) !important;
+}
+
+._3C_oC:active::before {
+    background-color: var(--grey-700) !important;
+}
+
+._3C_oC:active:not(.hfPEz) ._2S0Zh {
+    border-color: var(--grey-900) !important;
+}
+
+._2bJln:active {
+    background-color: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+._2-OmZ:active {
+    background-color: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+.HaQTI {
+    color: var(--grey-700) !important;
+}
+
+._2-OmZ, ._6Nozy, .HaQTI.disCS {
+    color: var(--grey-800) !important;
+}
+
+._2S0Zh {
+    border: 1px solid var(--grey-700) !important;
+    color: var(--grey-700) !important;
+}
+
+/* Quiz button selected */
+._3C_oC.disCS::before, .pmjld::before {
+    background-color: var(--grey-600) !important;
+}
+
+._3C_oC.disCS, .pmjld {
+    color: var(--grey-800) !important;
+}
+
+._3C_oC.disCS span {
+    color: var(--grey-800) !important;
+}
+
+._3C_oC.disCS ._2S0Zh {
+    border-color: var(--grey-800) !important;
+}
+
+/* Quiz button selected correct */
+._2eHZX::before {
+    background-color: var(--green-400) !important;
+    box-shadow: 0 1px 0 var(--green-800) !important;
+}
+
+._2eHZX {
+    color: var(--green-800) !important;
+}
+
+._2eHZX > span {
+    color: var(--green-800) !important;
+}
+
+/* Quiz button selected wrong */
+._2TkfN::before {
+    background-color: var(--red-400) !important;
+    box-shadow: 0 1px 0 var(--red-800) !important;
+}
+
+._2TkfN {
+    color: var(--red-800) !important;
+}
+
+._2TkfN > span {
+    color: var(--red-800) !important;
+}
+
+/* Quiz button locked */
+.WOZnx.LhRk3:not(._1rl91)::before, .WOZnx:disabled:not(._1rl91)::before {
+    background-color: var(--grey-200) !important;
+    border: 1px solid var(--grey-400) !important;
+}
+
+.WOZnx.LhRk3:not(._1rl91), .WOZnx:disabled:not(._1rl91) {
+    color: var(--grey-500) !important;
+}
+
+.WOZnx.LhRk3:not(._1rl91) > ._2TrnF {
+    border: 1px solid var(--grey-500) !important;
+    color: var(--grey-500) !important;
+}
+
+.WOZnx.LhRk3:not(._1rl91) > ._3f1Bj {
+    opacity: 0.2 !important;
+}
+
+.WOZnx.LhRk3:not(._1rl91) > ._1yRIl {
+    opacity: 0.2 !important;
+}
+
+/* Quiz button listening icon */
+._3f1Bj {
+    filter: grayscale(1) !important;
+}
+
+._1yRIl {
+    filter: grayscale(1) !important;
+}
+
+/* Quiz drag button */
+._2LmyT ._13HXc {
+    color: var(--grey-800) !important;
+}
+
+._2mDNn ._13HXc {
+    color: #00000000 !important;
+    pointer-events: none !important;
+}
+
+/* Quiz drag question hr */
+._1HxVp {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+._15J0U {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Quiz footer */
+._399cc, ._11VOS {
+    background: var(--grey-300) !important;
+    border-top: 1px solid var(--grey-500) !important;
+}
+
+/* Quiz footer use-keyboard */
+.binpA > ._3yAjN {
+    color: var(--grey-700) !important;
+}
+
+/* Quiz footer check button */
+._2Fc1K ._2NolF::before, ._11VOS ._2NolF::before {
+    background: var(--green-600) !important;
+    box-shadow: 0 1px 0 var(--green-200) !important;
+    color: var(--green-800) !important;
+}
+
+._2Fc1K ._2NolF::before > ._13HXc, ._11VOS ._2NolF::before > * {
+    color: var(--green-800) !important;
+}
+
+._2NolF.LhRk3:not(._1rl91)::before {
+    background-color: var(--grey-500) !important;
+    box-shadow: 0 0 0 var(--grey-700) !important;
+}
+
+._2NolF.LhRk3:not(._1rl91) > ._13HXc {
+    color: var(--grey-200) !important;
+}
+
+/* Quiz footer can't listen now button */
+._1ZefG:not(:disabled):not(.LhRk3) > ._13HXc {
+  /* color: var(--green-800) !important; */
+}
+
+/* Quiz footer correct */
+._3e9O1, .TVxEB {
+    background-color: var(--green-400) !important;
+}
+
+/* Quiz footer correct check mark */
+._2VrUB, ._1qYD7 {
+    background: var(--green-600) !important;
+}
+
+._2VrUB ._2jNpf, ._1qYD7 ._2jNpf {
+    filter: hue-rotate(30deg) saturate(0.5) brightness(1.5) !important;
+}
+
+/* Quiz footer correct header text */
+._1x6Dk, ._2Za5p {
+    color: var(--green-800) !important;
+}
+
+/* Quiz footer correct translation text */
+._1D8II {
+    color: var(--green-800) !important;
+}
+
+/* Quiz footer correct report/dicuss flag */
+._3tFbb, ._2oQNn {
+    filter: hue-rotate(20deg) saturate(0.70) brightness(2) !important;
+}
+
+/* Quiz footer correct report/dicuss text */
+.jTP0E {
+    color: var(--green-800) !important;
+}
+
+/* Quiz footer correct button */
+._10vOG ._2NolF::before, ._1MNhU ._2NolF::before {
+    background-color: var(--green-600) !important;
+    box-shadow: 0 1px 0 var(--green-800) !important;
+}
+
+._10vOG ._2NolF ._13HXc {
+    color: white !important;
+}
+
+/* Quiz footer wrong */
+._3vF5k {
+    background-color: var(--red-400) !important;
+}
+
+/* Quiz footer wrong X mark */
+._3vF5k ._2VrUB {
+    background: var(--red-600) !important;
+}
+
+._3vF5k ._2VrUB ._2jNpf {
+    filter: hue-rotate(5deg) saturate(0.35) brightness(4) !important;
+}
+
+/* Quiz footer wrong header text */
+._3vF5k ._1x6Dk {
+    color: var(--red-800) !important;
+}
+
+/* Quiz footer wrong translation text */
+._3vF5k ._3Qruy {
+    color: var(--red-800) !important;
+}
+
+/* Quiz footer wrong report/discuss flag */
+._3vF5k ._1SnxH, ._3vF5k ._3o1ZL {
+    filter: hue-rotate(5deg) saturate(0.35) brightness(2.5) !important;
+}
+
+/* Quiz footer wrong report/discuss text */
+._3vF5k .RnDo_ ._3yAjN {
+    color: var(--red-800) !important;
+}
+
+/* Quiz footer wrong button */
+._3vF5k ._10vOG ._2NolF::before {
+    background-color: var(--red-600) !important;
+    box-shadow: 0 1px 0 var(--red-800) !important;
+}
+
+._3vF5k ._10vOG ._2NolF ._13HXc {
+    color: var(--red-800) !important;
+}
+
+/* Quiz footer cannot-listen */
+._2NxDA {
+    background-color: var(--green-400) !important;
+}
+
+/* Quiz footer cannot-listen check mark */
+._3vF5k ._2VrUB {
+    /*background: var(--green-600) !important;*/
+}
+
+._1W9Eh {
+    filter: hue-rotate(70deg) saturate(0.60) brightness(2) !important;
+}
+
+/* Quiz footer cannot-listen translation text */
+._2QmYK {
+    color: var(--green-800) !important;
+}
+
+/* Quiz footer cannot-listen report/discuss flag */
+._1opQ9, .WBzys {
+    filter: hue-rotate(70deg) saturate(0.60) brightness(2) !important;
+}
+
+/* Quiz footer cannot-listen report/discuss text */
+._3yAjN {
+    color: var(--green-800) !important;
+}
+
+/* Quiz footer cannot-listen button */
+._3vF5k ._10vOG ._2NolF::before {
+    background-color: var(--red-600) !important;
+    box-shadow: 0 1px 0 var(--red-800) !important;
+}
+
+._3vF5k ._10vOG ._2NolF ._13HXc {
+    color: var(--red-800) !important;
+}
+
+/* Quiz report pop-up */
+._2_XU0 {
+    color: var(--grey-800) !important;
+}
+
+/* Quiz report pop-up checkbox*/
+input[type="checkbox"], ._21Icd {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+input[type="checkbox"]:checked {
+    background-color: var(--blue-400) !important;
+}
+
+/* Quiz report pop-up submit button */
+._3lUbm ._2NolF:disabled::before {
+    background: var(--grey-600) !important;
+    color: var(--grey-800) !important;
+}
+
+._3lUbm ._2NolF::before {
+    box-shadow: 0 1px 0 var(--grey-100) !important;
+}
+
+._3lUbm ._13HXc {
+    color: white !important;
+}
+
+/* Quiz end header text */
+._2TPy4, ._3K0I6 h2, ._171ia {
+    color: var(--grey-800) !important;
+}
+
+/* Quiz end paragraph text */
+.ccZTP, ._3D9Yz  {
+    color: var(--grey-700) !important;
+}
+
+/* Quiz end get-super footer */
+._9Yrap {
+    background: var(--blue-400) !important;
+    border-top: 1px solid var(--blue-800) !important;
+}
+
+._3bfrJ._2YJ_i._2dYeh, ._3bfrJ._2YJ_i._2f654.BPXO- {
+    border-top: 0 solid var(--blue-800) !important;
+}
+
+/* Quiz end get-super button */
+._1-PcN ._2NolF::before, .dqlNe ._2NolF::before, ._3r4fN ._2NolF::before, ._3SlU8::after, ._10xHE ._2NolF::before, ._1T8FO ._2NolF::before, ._5HFYB ._2NolF::before, ._-7YNG::after {
+    background: var(--blue-600) !important;
+    border: 1px solid var(--blue-800) !important;
+    box-shadow: 0 1px 0 var(--blue-800) !important;
+}
+
+._-7YNG > img {
+    opacity: 0.75;
+}
+
+._-7YNG::after {
+    background: var(--blue-600) !important;
+}
+
+._1-PcN ._2NolF ._13HXc, .dqlNe ._2NolF ._13HXc, ._9Yrap ._3yAjN, ._1T8FO ._13HXc, ._5HFYB ._13HXc, ._3INZr {
+    color: var(--blue-800) !important;
+}
+
+._3Ev3S ._3INZr {
+    color: var(--grey-700) !important;
+}
+
+._9Zd4Y._3Bh7H._3yAjN {
+    color: var(--blue-800) !important;
+}
+
+/* hr */
+._3Z3u5 {
+    border-top: 1px solid var(--blue-600) !important;
+}
+
+/* Quiz end select-plan pop-up */
+._165Pz {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+._3goUF {
+    color: var(--grey-800) !important;
+}
+
+._2506h {
+    color: var(--blue-800) !important;
+}
+
+._3uOJe ._3yAjN {
+    color: var(--grey-800) !important;
+}
+
+._3KqRL {
+    --theme-color-rgb: 255,255,255 !important;
+}
+
+._28Qti {
+    box-shadow: none !important;
+}
+
+._19_oT {
+    box-shadow: 0 0 0 1px var(--grey-800) !important;
+}
+
+/* hr */
+._2K3Mx {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+._3gcAO {
+    border-bottom: 1px solid var(--grey-500) !important;
+}
+
+/* Quiz end get-super form */
+.ERydg {
+    background: var(--blue-400) !important;
+    border: 1px solid var(--blue-600) !important;
+    border-right: 0 solid var(--blue-600) !important;
+}
+
+._1sZAv {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+._1Izmx {
+    color: var(--grey-800) !important;
+}
+
+.JzbSS {
+    color: var(--grey-700) !important;
+}
+
+/* Quiz end steak update */
+._2b2qG {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+    border-top: 0 solid var(--grey-600) !important;
+    color: var(--grey-700) !important;
+}
+
+._1p_Bp::before {
+    background: var(--grey-400) !important;
+    border-radius: 12px 12px 0 0 !important;
+    bottom: 0 !important;
+    content: "" !important;
+    height: 100% !important;
+    left: 0 !important;
+    position: absolute !important;
+    width: 100% !important;
+    z-index: -5 !important;
+}
+
+._1p_Bp {
+    border: 1px solid var(--grey-600) !important;
+    border-bottom: 0 solid var(--grey-600) !important;
+}
+
+._1p_Bp::after {
+    background: var(--grey-600) !important;
+    height: 1px !important;
+}
+
+/* Quiz review */
+
+/* Quiz review header text */
+._1LruX, ._2d7Ae {
+    color: var(--grey-800) !important;
+}
+
+/* Quiz review paragraph text */
+.C21s9, ._21MzE {
+    color: var(--grey-700) !important;
+}
+
+/* Stories */
+._3PnTi, .xzblA, ._2QKoe, ._1zsgz, ._2nLk_ {
+    background-color: var(--grey-200) !important;
+}
+
+.saQLX, ._2igzU._3LUrt, ._3GBp7.W6uig._3B_aK {
+    color: var(--grey-800) !important;
+}
+
+/* Stories header text */
+._2zN81, ._1qdLM, ._1eZU8, .eTo2L, ._1qFda {
+    color: var(--grey-800) !important;
+}
+
+/* Stories subheader text */
+._1lJ31, ._3tLz5 > div, ._3cDk3:not(._34Xbr) {
+    color: var(--grey-700) !important;
+}
+
+/* Stories hr */
+._1qdLM::before, ._1qdLM::after {
+    background: var(--grey-600) !important;
+    height: 1px !important;
+}
+
+/* Stories read button */
+.yTpGk::after {
+    background: var(--grey-600) !important;
+    border: 1px solid var(--grey-800) !important;
+    box-shadow: 0 1px 0 var(--grey-800) !important;
+}
+
+.yTpGk {
+    color: var(--grey-800) !important;
+}
+
+/* Stories checkbox button */
+._1ZAmI ._21Icd {
+    background-color: var(--green-400) !important;
+    border: 1px solid var(--green-600) !important;
+    box-shadow: none !important;
+}
+
+.xzblA ._13HXc {
+    color: var(--grey-800) !important;
+}
+
+._2ob7j ._21Icd {
+    background-color: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+    box-shadow: none !important;
+}
+
+._2ob7j ._21Icd::after {
+    filter: brightness(0.75) grayscale(1) !important;
+}
+
+/* Stories select word correct */
+._3o2cU::before {
+    background: var(--green-400) !important;
+    border: 1px solid var(--green-600) !important;
+    box-shadow: none !important;
+}
+
+._3o2cU::before * {
+    color: var(--green-800) !important;
+}
+
+/* Stories select word wrong */
+._12-7V::before {
+    background: var(--red-400) !important;
+    border: 1px solid var(--red-600) !important;
+    box-shadow: none !important;
+}
+
+._12-7V::before * {
+    color: var(--red-800) !important;
+}
+
+/* Stories word button */
+._27o_2 {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+    box-shadow: 0 1px 0 var(--grey-600) !important;
+    color: var(--grey-800) !important;
+}
+
+.kAVeU {
+    background: var(--grey-200) !important;
+    border: 1px solid var(--grey-400) !important;
+    box-shadow: none !important;
+    color: var(--grey-600) !important;
+}
+
+/* Legendary end legendary complete */
+._26QYy ._13HXc {
+    color: var(--blue-400) !important;
+}
+
+._26QYy::before {
+    box-shadow: 0 1px 0 var(--grey-100) !important;
+}
+
+/* Legendary start menu */
+
+/* Legendary start menu background */
+._3gK3K {
+    background: var(--grey-200) !important;
+    border-top: 1px solid var(--grey-500) !important;
+}
+
+/* Legendary start menu header text */
+._3NeIT {
+    color: var(--grey-800) !important;
+}
+
+/* Legendary start menu paragraph text */
+._15PXk, .ofJng {
+    color: var(--grey-700) !important;
+}
+
+/* Guidebook */
+
+/* Guidebook back button */
+._2sPx0._2jNpf {
+    opacity: 1 !important;
+    filter: brightness(1.25) !important;
+}
+
+/* Guidebook header text */
+.EQdOr {
+    color: var(--grey-800) !important
+}
+
+/* Guidebook paragraph text */
+._1hMfp {
+    color: var(--grey-700) !important;
+}
+
+/* Guidebook subheader text */
+._1WCLL > span > span[style*="color: rgb(75, 75, 75)"] {
+    color: var(--grey-700) !important;
+}
+
+/* Guidebook speach bubble target language */
+.ZBgAa > span > span {
+    color: #1cb0f6 !important;
+}
+
+/* Guidebook box */
+._2fqcw {
+    --explanation-element-background-color: var(--grey-500) !important;
+}
+
+._1Tjr3 ._37c8P {
+    background-color: var(--grey-700) !important;
+}
+
+/* Guidebook box text */
+._2fqcw > span > span[style*="color: rgb(75, 75, 75)"], .Aedtr > span > span[style*="color: rgb(75, 75, 75)"] {
+    color: var(--grey-800) !important;
+}
+
+/* Guidebook box link text */
+._2D0ZD > span[style*="color: rgb(75, 75, 75)"] {
+    color: var(--grey-700) !important;
+}
+
+/* Guidebook box link text underline */
+._2D0ZD {
+    filter: brightness(2) !important;
+}
+
+/* Guidebook box table */
+._1Dr4X {
+    background-color: var(--grey-900) !important;
+    border: 1px solid var(--grey-100) !important;
+}
+
+._1lcy6 {
+    border: 1px solid var(--grey-100) !important;
+}
+
+/* Guidebook box table header text */
+._3sqRT > span > ._34k_q > ._3UZ75 > span {
+    color: black !important;
+}
+
+._3sqRT > span > span {
+    color: black !important;
+}
+
+/* Guidebook box card */
+._2gwdz {
+    background-color: var(--grey-600) !important;
+    border: 1px solid var(--grey-800) !important;
+}
+
+/* Animations */
+._3plTW {
+    background: linear-gradient(90deg, var(--grey-200), hsla(0, 0% ,100%, 0) 10%, hsla(0, 0%, 100%, 0) 90%, var(--grey-200))
+}
+
+/* Profile */
+
+/* Profile edit-Profile button */
+._91Tq4 ._2NolF::before {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+    box-shadow: 0 1px 0 var(--grey-600) !important;
+}
+
+._3612i {
+    filter: brightness(0.8) !important;
+}
+
+._3BEMN {
+    color: var(--grey-800) !important;
+}
+
+/* Profile box outlines */
+._3Pm6e, .BMuTY, ._1aS6c, ._1QiqV {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+/* Profile box entry box */
+._91Tq4, ._2hN48, ._2gk65 {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Profile box entry box */
+._91Tq4:last-child, ._2hN48:last-child, ._2gk65:last-child {
+    border-bottom: o solid var(--grey-600) !important;
+}
+
+/* Profile headers */
+._1cHvI > span, .HBGOS, ._2gqnn, ._3gX7q, ._3-9p5, .wWY_2, .hOVdl {
+    color: var(--grey-800) !important;
+}
+
+/* Profile subheaders */
+._1VA3z, .hOdmy, ._3mABf, ._1nO95, ._13HXc {
+    color: var(--grey-700) !important;
+}
+
+/* Profile (other user) follow icon */
+._6zc1w, ._2veQ2 > img {
+    filter: grayscale(1) !important;
+}
+
+._3HhhB ._6zc1w {
+    filter: brightness(0.65) !important;
+}
+
+._2veQ2 {
+    border: 0 solid black;
+}
+
+._2veQ2::after {
+    background-color: var(--grey-600);
+    border: 1px solid var(--grey-700);
+}
+
+/* Profile report pop-up */
+._3nHfA {
+    color: var(--grey-800) !important;
+}
+
+/* Profile report pop-up select */
+._1-bWL, .JPeOG::before {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+/* Profile report pop-up select option */
+._24isA {
+    color: var(--grey-700) !important;
+}
+
+/* Profile (other user) achievements */
+.SEEvZ {
+    border-top: 1px solid var(--grey-600) !important;
+    color: var(--grey-700) !important;
+}
+
+/* Achievements paragraph text */
+._315yA {
+    color: var(--grey-700) !important;
+}
+
+/* Account */
+
+/* Account header */
+._3HPNX {
+    color: var(--grey-800) !important;
+}
+
+/* Account label */
+._1CsoA {
+    color: var(--grey-700) !important;
+}
+
+/* Account input textarea */
+._2gBEa, ._3CNP-, ._1QDX9, ._3ntDw {
+    background: var(--grey-300) !important;
+    border: 1px solid var(--grey-600) !important;
+    color: var(--grey-800) !important;
+}
+
+._2gBEa::placeholder, ._3CNP-::placeholder, ._1QDX9::placeholder, ._3ntDw input::placeholder, ._3Yh_i::placeholder {
+    color: var(--grey-600) !important;
+}
+
+._3bI3c input, ._3Yh_i {
+    background: none !important;
+    color: var(--grey-800) !important;
+}
+
+/* Account save button locked */
+._1FaGz ._2NolF::before, ._2QtNe ._2NolF::before {
+    background: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    box-shadow: 0 1px 0 var(--grey-700) !important;
+}
+
+._1FaGz ._2NolF:disabled:not(._1rl91)::before, ._2QtNe ._2NolF:disabled:not(._1rl91)::before {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+/* Account navbox */
+
+/* Account navbox header */
+._1X2WL {
+    color: var(--grey-800) !important;
+}
+
+/* Account navbox label */
+._1wy04 {
+    color: var(--grey-600) !important;
+}
+
+/* Account navbox highlight */
+._1eSrF {
+    background: var(--grey-800) !important;
+}
+
+/* Account navbox highlight label */
+._1eSrF ._1wy04 {
+    color: var(--grey-400) !important;
+}
+
+/* Courses */
+
+/* Courses course hr */
+._3I-zC {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+._3I-zC:last-child {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Courses course entry */
+._1PnhV {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+._1PnhV:last-child {
+    border-bottom: 0 solid var(--grey-600) !important;
+}
+
+/* Courses course title */
+._3YAtF {
+    color: var(--grey-700) !important;
+}
+
+/* Friend updates */
+
+/* Friend updates header text */
+._1V_qq {
+    color: var(--grey-800) !important;
+}
+
+/* Friend updates subheader text */
+._3YkaQ {
+    color: var(--grey-700) !important;
+}
+
+/* Friend updates hr */
+.YkUbe {
+    background: var(--grey-600) !important;
+    height: 1px !important;
+}
+
+/* Friend updates box */
+._2vsBg:not(.BMuTY ._2vsBg) {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+/* Friend suggestions */
+
+/* Friend suggestions usernames */
+.rPqLh, ._1MTUU {
+    color: var(--grey-800) !important;
+}
+
+/* Friend suggestion paragraph text */
+._1soKk, ._2WURb {
+    color: var(--grey-700) !important;
+}
+
+/* Friend suggestion sizzle image */
+._2ikVT {
+    background: none !important;
+}
+
+/* Friend suggestions entry box */
+._2GEam, ._30OwD {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+._2GEam:last-child, ._30OwD:last-child {
+    border-bottom: 0 solid var(--grey-600) !important;
+}
+
+/* Friend suggestions X button */
+._2jNpf {
+    filter: brightness(0.75) !important;
+}
+
+/* Free super duolingo pop-up */
+
+/* Free sdp header text */
+._1A6EB {
+    color: var(--grey-800) !important;
+}
+
+._2O0xs {
+    color: var(--grey-700) !important;
+}
+
+/* Shop */
+
+/* Shop header text */
+._1gB7x { 
+    color: var(--grey-800) !important;
+}
+
+/* Shop subheader text */
+._3g6lk { 
+    color: var(--grey-800) !important;
+}
+
+/* Shop paragraph text */
+._3gbtC, ._2QQA_ { 
+    color: var(--grey-700) !important;
+}
+
+/* Shop hr */
+._8roiG {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+/* Podcast */
+
+/* Podcast text */
+.duolingo-podcast {
+    filter: brightness(3) !important;
+}
+
+.body {
+    color: var(--grey-700) !important;
+}
+
+.course {
+    background-color: var(--grey-500) !important;
+    border: 1px solid var(--grey-700) !important;
+    border-width: 1px 1px 2px 1px !important;
+}
+
+.course:active {
+    border-width: 1px !important;
+}
+
+.course > span {
+    color: var(--grey-700) !important;
+}
+
+.course > .title {
+    color: var(--grey-800) !important;
+}
+
+/* Discuss */
+
+/* Discuss navbar */
+._13Hyj, ._2i8Km {
+    background: var(--grey-100) !important;
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+.JFjLE {
+    background: var(--grey-100) !important;
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+/* Discuss header text */
+._3eQwU h1, .L3O-V span, ._1IfR4, ._1yEN7 h2 {
+    color: var(--grey-800) !important;
+}
+
+/* Discuss paragraph text */
+._3eQwU h2, .uMmEI p, ._1yEN7 p, .mepBY span, ._1eibu, ._3-CPF {
+    color: var(--grey-700) !important;
+}
+
+/* Discuss hr */
+._2MyXH {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+/* Discuss avatar */
+._34uU0 {
+    border: 2px solid white !important;
+}
+
+/* Discuss footer F/T icons */
+._1KRXZ span, .icon {
+    filter: invert(100%) !important;
+}
+
+/* Discuss Profile dropdown */
+._2T70a {
+    border-bottom: 0px solid var(--grey-800) !important;
+}
+
+._3_pNV {
+    border-bottom: 1px solid var(--grey-800) !important;
+}
+
+._1OOfg:not(:first-child), ._2bHTw:first-child, .gjGcG {
+    border-top: 1px solid var(--grey-800) !important;
+}
+
+._20VuU {
+    border-top: 1px solid var(--grey-800) !important;
+    color: var(--grey-700) !important;
+    border-bottom: 0px solid black !important;
+}
+
+/* Edit daily goal */
+._26wPn::after {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-800) !important;
+}
+
+._26wPn:active::after, ._3-21f::after {
+    border: 1 solid white !important;
+}
+
+._26hyV, .EUdvL {
+    color: var(--grey-600) !important;
+}
+
+._3-21f._26wPn::after {
+    background: var(--grey-600) !important;
+}
+
+._3-21f ._26hyV, ._3-21f .EUdvL {
+    color: var(--grey-100) !important;
+}
+
+
+/* Discuss dropdown */
+._1nEif {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+    filter: drop-shadow(0px 0px 16px rgb(0, 0, 0)) !important;
+}
+
+._2-0SI {
+    color: var(--grey-800) !important;
+}
+
+._3Utz6:hover {
+    background: var(--grey-700) !important;
+}
+
+._3Utz6:hover ._2-0SI {
+    color: var(--grey-100) !important;
+}
+
+/* Discuss dropdown pointer */
+._3i3xv {
+    border-bottom-color: var(--grey-600) !important;
+}
+
+/* Privacy */
+._3wZWk {
+    background-color: var(--grey-100) !important;
+    border: 1px solid var(--grey-500) !important;
+    border-radius: 12px !important;
+    margin-bottom: 32px !important;
+    margin-right: 32px !important;
+}
+
+._3wZWk h1, ._3wZWk a, ._1oj-F {
+    color: var(--grey-800) !important;
+}
+
+._3wZWk h3, ._3wZWk p, ._3wZWk li::marker, ._27qig {
+    color: var(--grey-700) !important;
+}
+
+/* Support */
+main {
+    background-color: var(--grey-100) !important;
+    border: 1px solid var(--grey-500) !important;
+}
+
+.header {
+    background-color: var(--grey-100) !important;
+    background-image: none !important;
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+.topbar-brand {
+    filter: brightness(0.625) !important;
+}
+
+center b p, .search-results h1, .search-results div {
+    color: var(--grey-700) !important;
+}
+
+.search-box::before, .sub-nav .search::before {
+    color: var(--grey-700) !important;
+}
+
+.search-box input, .sub-nav .search input, .form-field input, .form-field textarea, .nesty-input {
+    background-color: var(--grey-200) !important;
+    border: 1px solid var(--grey-600) !important;
+    color: var(--grey-700) !important;
+}
+
+.search-box input::placeholder, .sub-nav .search input::placeholder {
+    color: var(--grey-600) !important;
+}
+
+.category h2, .section h3, .page-header, .article-sidebar h3, .search-results li {
+    border-bottom: 1px solid var(--grey-600) !important;
+    color: var(--grey-700) !important;
+}
+
+.search-results-list > :first-child {
+    border-top: 1px solid var(--grey-600) !important;
+}
+
+.pagination li {
+    border-color: var(--grey-600) !important;
+    color: var(--grey-700) !important;
+}
+
+.pagination-current {
+    background: var(--grey-400) !important;
+}
+.pagination-current span {
+    color: var(--grey-800) !important;
+}
+
+label, .form-field p, .page-header h1, .article-body, .article-body span, .article-body h1 {
+    color: var(--grey-700) !important;
+}
+
+input[type="submit"], .currentlink {
+    background: var(--blue-600) !important;
+}
+
+input[type="submit"]:hover, .currentlink:hover {
+    background: var(--blue-800) !important;
+    border: 1px solid white !important;
+}
+
+.topbar-milkshakes-main .currentlink:hover {
+    background: var(--blue-800) !important;
+    border: 0px solid white !important;
+}
+
+.upload-dropzone {
+    border: 1px dashed var(--grey-600) !important;
+}
+
+.form-field.required > label::after, asterisk {
+    color: var(--red-lingot) !important;
+}
+
+.article-header h1 {
+    color: var(--grey-800) !important;
+}
+
+/* School tab in settings */
+._2KvKK {
+    color: var(--grey-800) !important;
+}
+
+._7cX3i {
+    color: var(--grey-700) !important;
+}
+
+/* Apps aka mobile */
+.U3-AM h2 {
+    color: var(--grey-800) !important;
+}
+
+/* Guidelines */
+._2c6BG {
+    background: none !important;
+}
+
+._2c6BG h1, ._2c6BG h4, .block-nir-committee h2 {
+    color: var(--grey-800) !important;
+}
+
+._2c6BG p, .striped-odd tbody * {
+    color: var(--grey-700) !important;
+}
+
+.striped-odd tbody tr:nth-child(2n+1) {
+    background-color: var(--grey-200) !important;
+}
+
+.block--doc-list .nir-widget--list > article {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* Investors */
+.logo-link {
+    filter: grayscale(1) !important;
+}
+
+.nir-widget h2, #ndq-content .nir-widget--label {
+    color: var(--grey-800) !important;
+}
+
+.people .person a, .field__item h1 span, .time {
+    color: var(--grey-800) !important;
+}
+
+.field__item, .field__item h1, article h3 {
+    color: var(--grey-700) !important;
+}
+
+.block--press .nir-widget--list article:not(:last-child) {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+/* About */
+._2_9xr main {
+    background-color: var(--grey-100) !important;
+    border: 1px solid var(--grey-500) !important;
+    border-radius: 12px !important;
+    margin-bottom: 32px !important;
+    margin-right: 32px !important;
+}
+
+._2peQQ h2, ._3T_VZ, ._3tyf9 h2, ._3A4Lv h2 {
+    color: var(--grey-800) !important;
+}
+
+._2peQQ p, ._3tyf9 p, ._3A4Lv p {
+    color: var(--grey-700) !important;
+}
+
+/* Schools */
+._13MqT, ._40Nx6, ._1Clm9, ._34nV-, ._36ogA, ._32hfl, ._1s8NK, ._3xLDi, ._2JZDN {
+    color: var(--grey-800) !important;
+}
+
+._1FQQA, ._22e5g, ._2nWtF, ._3BZUb, .sgXWv, ._29VhF, ._2zCDZ, ._3_wkr p {
+    color: var(--grey-700) !important;
+}
+
+.RmERj, ._3aYGh, ._2nhib {
+    background: var(--grey-400) !important;
+    border: 1px solid var(--grey-600) !important;
+}
+
+._2nhib {
+    color: var(--grey-600) !important;
+}
+
+._3K_4o:not(:last-child) {
+    border-bottom: 1px solid var(--grey-600) !important;
+}
+
+._3EBgP {
+    background: none !important;
+}
+
+/* //TODO: start styling Stories */
+/* //TODO: finish Investors */
+/* //TODO: finish Schools */
+/* //TODO: start Careers */
+/* //TODO: start Research */
+/* //TODO: start Press */

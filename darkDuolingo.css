@@ -40,6 +40,16 @@ hr {
     border-top: 1px solid var(--grey-600) !important;
 }
 
+/* Maintenance header text */
+.SCM8o {
+    color: var(--grey-800) !important;
+}
+
+/* Maintenance paragraph text */
+.NBVqZ {
+    color: var(--grey-800) !important;
+}
+
 /* Login */
 ._338aW {
     background: var(--grey-200) !important;

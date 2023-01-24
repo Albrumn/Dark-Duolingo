@@ -264,6 +264,39 @@ hr {
     box-shadow: 0 1px 0 var(--grey-700) !important;
 }
 
+/* ./characters (foreign script) */
+
+/* header text */
+._3mxWC, ._2nAgU {
+    color: var(--grey-800) !important;
+}
+
+/* paragraph text */
+._2s4Lh, ._2SDmF, ._2KRgS, ._2QCqu {
+    color: var(--grey-700) !important;
+}
+
+/* section header text */
+._2cQin {
+    color: var(--grey-700) !important;
+}
+
+/* section paragraph text */
+._2IZtO {
+    color: var(--grey-600) !important;
+}
+
+/* hr */
+._2cQin::after, ._2cQin::before {
+    background: var(--grey-600) !important;
+    height: 1px !important;
+}
+
+/* blank box */
+._3OTNX {
+    opacity: 0 !important;
+}
+
 /* ./learn */
 
 /* Avatar */
@@ -456,6 +489,32 @@ hr {
     opacity: 0.75;
 }
 
+/* View league */
+._2p1op {
+    background: var(--grey-200) !important;
+}
+
+/* View league header text */
+._250dJ {
+    color: var(--grey-800) !important;
+}
+
+/* Username text */
+.yy8dZ, ._2vd8L, ._1PnzB, ._2qALW, ._39R3S, .pVKS- {
+    color: var(--grey-600) !important;
+}
+
+/* Demotion text */
+._nEhu._3lZbT._3yAjN, ._2HMKA._1N4Ge._3yAjN{
+    color: var(--red-lingot) !important;
+}
+
+/* Leage pop-up on skip unit failure */
+.CeAwM {
+    background: var(--grey-300) !important;
+    border: 1px solid var(--grey-500) !important;
+}
+
 /* Main content */
 
 /* League pop-up */
@@ -470,7 +529,7 @@ hr {
 }
 
 /* League panel "you're ranked" text */
-._2LYLg span {{
+._2LYLg > span {
     color: var(--grey-800) !important;
 }
 

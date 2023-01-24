@@ -469,6 +469,11 @@ hr {
     color: var(--grey-800) !important;
 }
 
+/* League panel "you're ranked" text */
+._2LYLg span {{
+    color: var(--grey-800) !important;
+}
+
 /* League pop-up paragraph text */
 ._2rcD0, ._1LpFA {
     color: var(--grey-700) !important;

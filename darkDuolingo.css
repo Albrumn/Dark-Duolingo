@@ -28,6 +28,15 @@
     --gold-800: #ffd800;
 }
 
+  /****************************/
+ /* --shine-background-color */
+/****************************/
+
+._20BI9,
+._3g2C1 {
+    --shine-background-color: var(--grey-100) !important;
+}
+
   /**************/
  /* background */
 /**************/
@@ -38,7 +47,9 @@
 
 ._1Bio6,
 ._1UDxB,
+._20BI9,
 ._24LxJ,
+._3g2C1,
 .topbar,
 .VIArj,
 .zw2A1 {
@@ -68,6 +79,9 @@ body,
 }
 
 .-uBuq ._2NolF::before,
+._1KUxv:not(.zylDf),
+._1UtJe,
+._2lvkY,
 ._2mjLz ._2NolF::before,
 ._3e4_t ._2NolF::before,
 ._3pDv3 ._2NolF::before,
@@ -84,6 +98,14 @@ body,
     background: var(--grey-600) !important;
 }
 
+._2zOgU._15r6c,
+._3p5e9,
+.EhdCW::after,
+.QNCcj,
+.uqCpu .uOkpe:hover {
+    background: var(--grey-800) !important;
+}
+
 ._1KUxv {
     background: var(--path-unit-background-color) !important;
 }
@@ -91,6 +113,14 @@ body,
   /**********/
  /* border */
 /**********/
+
+._19zEx {
+    border: 0 solid white !important;
+}
+
+.uqCpu .uOkpe:hover > ._2UuYQ {
+    border: 1px solid var(--grey-500) !important;
+}
 
 ._2a3s4,
 ._3WmPv,
@@ -110,8 +140,27 @@ body,
 }
 
 ._1KUxv,
+._1UtJe,
+._2lvkY,
 ._2Aobv {
     border: 1px solid var(--grey-800) !important;
+}
+
+._2EwR0,
+._33LFc,
+.hjw0S {
+    border: 1px solid white !important;
+}
+
+._3J9t8 {
+    border: 2px solid white !important;
+}
+
+._2zOgU._15r6c,
+._3p5e9,
+.EhdCW::after,
+.QNCcj {
+    border: none !important;
 }
 
   /*****************/
@@ -124,12 +173,26 @@ body,
 
 ._1Bio6,
 ._1UDxB,
+._20BI9,
 ._24LxJ,
 ._2igau li,
+._3g2C1,
 .topbar,
 .VIArj,
 .zw2A1 {
     border-bottom: 1px solid var(--grey-600) !important;
+}
+
+  /****************/
+ /* border-right */
+/****************/
+
+._1e1GW::after {
+    border-right: 12px solid var(--grey-500) !important;
+}
+
+._1e1GW::before {
+    border-right: 12px solid var(--grey-800) !important;
 }
 
   /**************/
@@ -138,6 +201,10 @@ body,
 
 hr {
     border-top: 1px solid var(--grey-600) !important;
+}
+
+.JsD0T, .uqCpu .uOkpe {
+    border-top: 1px solid var(--grey-700) !important;
 }
 
   /*****************/
@@ -176,6 +243,10 @@ hr {
     color: var(--grey-200) !important;
 }
 
+.uqCpu .uOkpe:hover > ._2UuYQ {
+    color: var(--grey-500) !important;
+}
+
 ._2IZtO,
 ._2z95t ._3yAjN {
     color: var(--grey-600) !important;
@@ -186,11 +257,12 @@ hr {
 ._2-N6b,
 ._2cQin,
 ._2gzeH,
+._2KRgS,
 ._2mhcq ._2z95t ._3yAjN:hover,
+._2QCqu,
 ._2s4Lh,
 ._2SDmF,
-._2KRgS,
-._2QCqu,
+._2UuYQ,
 ._35L-A p,
 ._3oF3u,
 ._3xBIr {
@@ -198,7 +270,9 @@ hr {
 }
 
 ._16hyD,
+._1KUxv:not(.zylDf),
 ._1L4sH span,
+._1UtJe,
 ._1QhgU,
 ._1S5OH,
 ._1sq2h > span,
@@ -209,6 +283,7 @@ hr {
 ._2gzeH a,
 ._2Iddf,
 ._2jK3x,
+._2lvkY,
 ._2mU94,
 ._2nAgU,
 ._338aW h2,
@@ -227,6 +302,12 @@ hr {
 ._13HXc,
 ._1KUxv {
     color: #ffffffcc !important;
+}
+
+._2EwR0,
+._33LFc,
+.hjw0S {
+    color: #ffffffaa !important;
 }
 
 ._1422X,
@@ -248,6 +329,10 @@ hr {
  /* filter */
 /**********/
 
+.uqCpu .uOkpe:hover > .afJvq {
+    filter: brightness(0.4) !important;
+}
+
 ._1Iy-H,
 ._2nlSY {
     filter: brightness(0.625) !important;
@@ -265,6 +350,23 @@ hr {
     filter: brightness(1.5) grayscale(1) !important;
 }
 
+.InZNv {
+    filter: brightness(2) grayscale(1) !important;
+}
+
+._2lvkY,
+._2O14B._1UVl-,
+._2O14B._1v2Gj,
+._2O14B._2XlFZ,
+._2O14B._2zguy,
+._32PCq.dkZje {
+    filter: drop-shadow(0px 0px 16px rgb(0, 0, 0)) !important;
+}
+
+._22cC8, ._2p67F, .H3MxL {
+    filter: grayscale(1) !important;
+}
+
   /**********/
  /* height */
 /**********/
@@ -279,6 +381,30 @@ hr {
     height: 23px !important;
 }
 
+  /********/
+ /* left */
+/********/
+
+._1e1GW::before {
+    left: -12px !important;
+}
+
+  /***********/
+ /* opacity */
+/***********/
+
+._3OTNX {
+    opacity: 0 !important;
+}
+
+  /*******/
+ /* top */
+/*******/
+
+._1e1GW::before {
+    top: -1px !important;
+}
+
   /*********/
  /* width */
 /*********/
@@ -287,111 +413,29 @@ hr {
     width: 23px !important;
 }
 
+  /***********/
+ /* z-index */
+/***********/
 
-
-
-
-
-
-
-   /******************************/
-  /*          WARNING           */
- /* The CSS below is outdated. */
-/******************************/
-
-
-/* blank box */
-._3OTNX {
-    opacity: 0 !important;
-}
-
-/* ./learn */
-
-/* Avatar */
-._33LFc, .hjw0S, ._2EwR0 {
-    border: 1px solid white !important;
-    color: #ffffffaa !important;
-}
-
-/* Navbar */
-
-/* Navbar container */
-._3g2C1, ._20BI9 {
-    background-color: var(--grey-100) !important;
-    border-bottom: 1px solid var(--grey-600) !important;
-    --shine-background-color: var(--grey-100) !important;
-}
-
-.InZNv {
-    filter: grayscale(1) brightness(2) !important;
-}
-
-/* Navbar logo */
-._22cC8, .H3MxL, ._2p67F {
-    filter: grayscale(1) !important;
-}
-
-/* Navbar avatar */
-._3J9t8 {
-    border: 2px solid white !important;
-}
-
-/* Navbar lingot notification */
-._19zEx {
-    border: 0 solid white !important;
-}
-
-/* Navbar dropdown */
-._2O14B._1v2Gj, ._32PCq.dkZje, ._2O14B._2XlFZ, ._2O14B._2zguy, ._2O14B._1UVl-, ._2lvkY {
-    filter: drop-shadow(0px 0px 16px rgb(0, 0, 0)) !important;
-}
-
-._1KUxv:not(.zylDf), ._1UtJe, ._2lvkY {
-    background: var(--grey-500) !important;
-    border: 1px solid var(--grey-800) !important;
-    color: var(--grey-800) !important;
-}
-
-.uqCpu .uOkpe, .JsD0T {
-    border-top: 1px solid var(--grey-700) !important;
-}
-
-.uqCpu .uOkpe:hover {
-    background: var(--grey-800) !important;
-}
-
-._2UuYQ {
-    color: var(--grey-700) !important;
-}
-
-.uqCpu .uOkpe:hover > ._2UuYQ {
-    background: 1px solid var(--grey-500) !important;
-    color: var(--grey-500) !important;
-}
-
-.uqCpu .uOkpe:hover > .afJvq{
-    filter: brightness(0.4) !important;
-}
-
-/* Navbar dropdown pointer */
-.ite_X, ._7UVIL, .EhdCW {
+._7UVIL,
+.EhdCW,
+.ite_X {
     z-index: -1 !important;
 }
 
-._3p5e9, ._2zOgU._15r6c, .QNCcj, .EhdCW::after {
-    background: var(--grey-800) !important;
-    border: none !important;
-}
 
-._1e1GW::before {
-    border-right: 12px solid var(--grey-800) !important;
-    left: -12px !important;
-    top: -1px !important;
-}
 
-._1e1GW::after {
-    border-right: 12px solid var(--grey-500) !important;
-}
+
+
+
+
+
+
+
+
+  /********** WARNING ***********/
+ /* The CSS below is outdated. */
+/******************************/
 
 /* Navbar dropdown header text */
 ._3PrAS, ._1ccgT, .PqXfk, ._1C24l > h2, ._2Iddf, ._2-5Us, .jt6j3 {

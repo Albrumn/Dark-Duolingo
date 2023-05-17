@@ -212,7 +212,7 @@
 }
 
 /* Quiz character */
-._3t8ak, ._38_0B._2ZI34, ._10gXJ, .F2B9m, ._3a8EI._2IFQ2, ._3a8EI:not(._1ZuR6, ._1NSc8, ._3xGhq *, .ImHeg), .WRo55, ._27mir, ._1cRje, ._23sc9, .QuIvC, ._145Ci, .IBVgx, ._3igD0, ._3i-dI, ._26tJe, ._25ZJA {
+.p9XXu, ._14I3k, ._38ZnG, ._3t8ak, ._38_0B._2ZI34, ._10gXJ, .F2B9m, ._3a8EI._2IFQ2, ._3a8EI:not(._1ZuR6, ._1NSc8, ._3xGhq *, .ImHeg), .WRo55, ._27mir, ._1cRje, ._23sc9, .QuIvC, ._145Ci, .IBVgx, ._3igD0, ._3i-dI, ._26tJe, ._25ZJA {
     filter: grayscale(0.25) contrast(125%)
     drop-shadow( 0   0   0 white)
     drop-shadow( 0  -1px 0 white)
@@ -1617,6 +1617,7 @@ input[type="submit"]:hover, .currentlink:hover {
 ._3rtds,
 .eP5n4,
 .topbar,
+.pATy6 .IkLCT._3VNma,
 .VIArj,
 .zw2A1 {
     background: var(--grey-100) !important;
@@ -1652,6 +1653,7 @@ body,
 ._3pCeN,
 ._3WmPv,
 ._3ZuGY,
+._7_Bcb:hover,
 .aEnZV,
 .HnjwC,
 .zAIdz {
@@ -1735,7 +1737,8 @@ body,
 
 ._17DXh,
 ._2IhxH:hover,
-.b8EPD {
+.b8EPD,
+.pATy6 .IkLCT._3VNma {
     background: transparent !important;
 }
 
@@ -2009,10 +2012,17 @@ hr,
     box-shadow: 0 0 0 var(--grey-700) !important;
 }
 
+._7_Bcb:hover {
+    box-shadow: inset 0 0 0.5rem white;
+}
+
+.pATy6 .IkLCT._3VNma {
+    box-shadow: inset 0 0 0.5rem black !important;
+}
+
 ._1vdeC {
     box-shadow: inset 128px -128px 128px var(--grey-200) !important;
 }
-
   /*********/
  /* color */
 /*********/
@@ -2177,6 +2187,7 @@ body,
 
 ._13HXc,
 ._1KUxv,
+._2SVG9._3yAjN,
 ._33QOn {
     color: var(--white-cc) !important;
 }

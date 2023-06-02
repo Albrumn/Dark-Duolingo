@@ -1613,9 +1613,11 @@ input[type="submit"]:hover, .currentlink:hover {
 ._20BI9,
 ._24LxJ,
 ._2ctSy,
+._2yJFi,
 ._3bfrJ,
 ._3g2C1,
 ._3rtds,
+._3ywLe,
 .eP5n4,
 .topbar,
 .pATy6 .IkLCT._3VNma,
@@ -2062,6 +2064,7 @@ hr,
 ._1vdeC {
     box-shadow: inset 128px -128px 128px var(--grey-200) !important;
 }
+
   /*********/
  /* color */
 /*********/
@@ -2071,7 +2074,10 @@ hr,
 }
 
 ._1L4sH:hover a,
-._3_pNV:hover {
+._3_pNV:hover,
+._7_Bcb:hover ._1PnzB,
+._7_Bcb:hover ._2vd8L,
+._7_Bcb:hover .yy8dZ {
     color: var(--grey-200) !important;
 }
 
@@ -2140,6 +2146,7 @@ hr,
 ._2urlg,
 ._2UuYQ,
 ._2WP_P,
+._2Xv_D,
 ._33Mo9 .WOZnx,
 ._3470c,
 ._35L-A p,
@@ -2269,7 +2276,11 @@ body,
     color: var(--blue-800) !important;
 }
 
-._28V9T._3yAjN,
+.MTx_L > div > ._3yAjN,
+.pATy6 > ._3yAjN {
+    color: var(--green-600) !important;
+}
+
 ._2eHZX {
     color: var(--green-800) !important;
 }

@@ -1941,6 +1941,7 @@ hr,
 ._3470c,
 ._35L-A p,
 ._39Kkf,
+._3bvNb,
 ._3cvJx,
 ._3Gl-n,
 ._3INZr,
@@ -1984,6 +1985,7 @@ hr,
 .post-footer h5,
 .product-item-price-final,
 .related-posts h4,
+.qs9dU,
 .RmPWt,
 .RUO3N,
 .section-background--background_primary,
@@ -1994,12 +1996,14 @@ hr,
 }
 
 body,
+._11FIT,
 ._13vaN,
 ._14oJt,
 ._15GVn,
 ._16hyD,
 ._17nEt,
 ._17nEt:disabled,
+._1BDtI,
 ._1C24l > h2,
 ._1ccgT,
 ._1E7AN,
@@ -2008,6 +2012,7 @@ body,
 ._1L4sH a,
 ._1mTpa,
 ._1OeGd,
+._1paTU,
 ._1t0Cw,
 ._1UtJe,
 ._1QhgU,
@@ -2036,6 +2041,7 @@ body,
 ._2lvkY,
 ._2LYLg > span,
 ._2mU94,
+._2n5Ov,
 ._2nAgU,
 ._2O1b2,
 ._2Ojej ._3yAjN,
@@ -2090,6 +2096,7 @@ body,
 .section-background--background_primary h3,
 .sOFre,
 .sOFre span,
+.SqYYX,
 .subtext,
 .tPtzQ,
 .veGOP,
@@ -2256,6 +2263,7 @@ body,
     filter: brightness(4) !important;
 }
 
+._1_9Jn,
 ._10gXJ,
 ._10Nrk,
 ._12Box,
@@ -2273,6 +2281,7 @@ body,
 ._294R3,
 ._2Gun5,
 ._2ikVT,
+._2NgH1,
 ._2oM65,
 ._2s1R7,
 ._38_0B._2ZI34,
@@ -2371,6 +2380,10 @@ body,
 
 ._1wq1M > ._3kcqP {
     height: 30px !important
+}
+
+._2DCqB {
+    height: unset !important;
 }
 
   /********/
@@ -2518,6 +2531,10 @@ body,
 
 ._2Aobv {
     width: 23px !important;
+}
+
+._2DCqB {
+    width: unset !important;
 }
 
   /***********/
